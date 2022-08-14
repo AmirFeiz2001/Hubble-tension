@@ -1,5 +1,5 @@
 # Hubble-tension
 Machine Learning project
 
-Ahmad Ramezan Poor
+Ahmad Ramezanpour
 , Abolfazl Shirmahalei
