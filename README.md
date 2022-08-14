@@ -2,4 +2,4 @@
 Machine Learning project
 
 Ahmad Ramezan Poor
-Abolfazl Shirmahalei
+, Abolfazl Shirmahalei
